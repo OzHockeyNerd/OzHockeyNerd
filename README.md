@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OzHockeyNerd
-- 👀 I’m interested in networking automation using python
-- 🌱 I’m currently learning python
+- 👀 I’m interested in hockey & computers
+- 🌱 I’m currently learning networking automation using python
 - 💞️ I’m looking to collaborate on nothing currently.
 
 <!---
